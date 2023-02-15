@@ -2,4 +2,4 @@
 
 ### Architectures
 
-Data ingestion and analysis with Aws and Gcp solutions
+Data warehouse, Data ingestion and Data analysis with Aws and Gcp solutions
