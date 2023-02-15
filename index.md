@@ -1,10 +1,17 @@
-## Architectures
+## Architecture solution built in production
+
+---
+
+### Data lake and Data warehouse 
+
+[Aws - S3 and Redshift](/aws-lake-dwh)
+<img src="images/aws-lake-dwh.png?raw=true"/>
 
 ---
 
 ### Data Ingestion 
 
-[Api with AWS Api Gateway](/api-lambda)
+[Aws - Api with Api Gateway, Lambda and Cloudwatch](/api-lambda)
 <img src="images/api-lambda.png?raw=true"/>
 
 ---
